@@ -1,0 +1,3 @@
+      [paste.app_factory]
+      main = cms_v001_py27:main
+      
